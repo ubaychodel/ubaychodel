@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ubaychodel
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning crypto blockchaum
+- 🌱 I’m currently learning crypto blockchain
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
